@@ -58,16 +58,12 @@ a {
 	color: black;
 }
 
-a:hover #img {
-	transform: scale(1.5);
-}
-
 hr {
 	border: 5px solid black;
 }
 
 img {
-	border: 5px solid back;
+	border: 5px solid black;
 	filter: drop-shadow(20px 20px black);
 }
 	
