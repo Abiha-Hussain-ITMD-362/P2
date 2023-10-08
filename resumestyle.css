@@ -62,3 +62,16 @@ hr {
 	border: 5px solid black;
 }
 
+button {
+	border: 5px solid black;
+	color: white;
+	background-color: black;
+	font-family: 'Young Serif', serif;
+	font-size: 15px;
+}
+
+button:hover {
+	background-image: linear-gradient(185deg, #57C6F2, #88F2CB, #99F2E9);
+	color: black;
+	border: 5px solid black;
+}
