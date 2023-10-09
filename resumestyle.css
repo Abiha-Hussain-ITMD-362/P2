@@ -75,3 +75,10 @@ button:hover {
 	color: black;
 	border: 5px solid black;
 }
+
+img {
+	width: 60%;
+	height: auto;
+	filter: contrast(110%);
+	filter: grayscale(30%);
+}
