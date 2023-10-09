@@ -82,3 +82,10 @@ button:hover {
         object-fit: contain;
 	position: static;
 }
+
+iframe {
+	height: 400px;
+        width: 100%;
+        object-fit: contain;
+	position: static;
+}
