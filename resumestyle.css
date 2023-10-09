@@ -88,6 +88,15 @@ button:hover {
 }
 
 @keyframes colors {
+	0% { background-image: linear-gradient(185deg, #57C6F2, #88F2CB, #99F2E9); }
+	20% { background-image: linear-gradient(185deg, #ECBDF2, #F9FBFF, #4ABFD9); }
+	40% { background-image: linear-gradient(185deg, #57C6F2, #88F2CB, #99F2E9); }
+	60% { background-image: linear-gradient(185deg, #ECBDF2, #F9FBFF, #4ABFD9); }
+	80% { background-image: linear-gradient(185deg, #57C6F2, #88F2CB, #99F2E9); }
+	100% { background-image: linear-gradient(185deg, #ECBDF2, #F9FBFF, #4ABFD9); }
+}
+
+@-webkit-keyframes colors {
 	0% { background-image: linear-gradient(185deg, #4ABFD9, #57C6F2, #88F2CB); }
 	100% { background-image: linear-gradient(185deg, #57C6F2, #57C6F2, #4ABFD9); }
 }
