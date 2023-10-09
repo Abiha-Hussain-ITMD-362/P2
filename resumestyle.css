@@ -42,18 +42,14 @@ h1, h2, h3 {
 
 #main {
 	padding: 10% 20%;
+	background-image: linear-gradient(45deg, #5F49F2, #527AF2, #F2B807, #F28907, #F2220F);
+	-webkit-animation: colors 15s ease infinite;
 	-webkit-animation-name: colors;
 	-webkit-animation-duration: 5s;
 	-webkit-animation-timing-function: linear;
-	-webkit-animation-iteration-count: infinite;
-	-webkit-animation-direction: alternate;
-	-webkit-transition-timing-function: ease;
-	animation-name: colors;
+	animation: colors 15s ease infinite;
 	animation-duration: 10s;
 	animation-timing-function: linear;
-	animation-iteration-count: infinite;
-	animation-direction: alternate;
-	transition-timing-function: ease;
 }
 
 #footer {
@@ -79,6 +75,7 @@ button {
 	background-color: black;
 	font-family: 'Young Serif', serif;
 	font-size: 15px;
+	padding: 2%;
 }
 
 button:hover {
@@ -88,17 +85,13 @@ button:hover {
 }
 
 @keyframes colors {
-	0% {background-image: linear-gradient(185deg, #1BB8FA, #18BCDC);}
-	25% {background-image: linear-gradient(185deg, #18BCDC, #1BB8FA);}
-	50% {background-image: linear-gradient(185deg, #27ECF3, #27F3DE);}
-	75% {background-image: linear-gradient(185deg, #27F3DE, #27ECF3);}
-	100% {background-image: linear-gradient(185deg, #25E9B9, #27F3DE);}
-}
+	0% {background-position: 0% 50%;}
+	50% {background-position: 100% 50%;}
+	100% {background-position: 0% 50%;}
+	
 
 @-webkit-keyframes colors {
-	0% {background-image: linear-gradient(185deg, #1BB8FA, #18BCDC);}
-	25% {background-image: linear-gradient(185deg, #18BCDC, #1BB8FA);}
-	50% {background-image: linear-gradient(185deg, #27ECF3, #27F3DE);}
-	75% {background-image: linear-gradient(185deg, #27F3DE, #27ECF3);}
-	100% {background-image: linear-gradient(185deg, #25E9B9, #27F3DE);}
+	0% {background-position: 0% 50%;}
+	50% {background-position: 100% 50%;}
+	100% {background-position: 0% 50%;}
 }
