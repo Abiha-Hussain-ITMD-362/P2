@@ -20,25 +20,11 @@ nav ul li a {
         text-align: center;
         padding: 20px 40px;
 	color: white;
-	font-family: 'Young Serif', serif;
-	border: 5px solid black;
+	font-family: 'Inclusive Sans', sans-serif;
 }
 
-#first li a:hover {
-	border: 5px solid black;
-	background-image: linear-gradient(0deg, #1A94FF, #25FFFC);
-	color: black;
-}
-
-#second li a:hover {
-	border: 5px solid black;
-	background-image: linear-gradient(0deg, #25FFFC, #62FFAD);
-	color: black;
-}
-
-#third li a:hover {
-	border: 5px solid black;
-	background-image: linear-gradient(0deg, #62FFAD, #1A94FF);
+li a:hover {
+	background-image: linear-gradient(15deg, #1A94FF, #25FFFC);
 	color: black;
 }
 
