@@ -44,13 +44,10 @@ h1, h2, h3 {
 	padding: 10% 20%;
 	background-size: 500% 500%;
 	height: 100vh;
-	background-image: linear-gradient(-45deg, #1A94FF, #25FFFC, #62FFAD);
+	background-image: linear-gradient(-45deg, #1A94FF, #25FFFC, #62FFAD, #1A94FF);
 	-webkit-animation: colors 15s ease infinite;
-	-webkit-animation-name: colors;
-	-webkit-animation-duration: 5s;
 	-webkit-animation-timing-function: linear;
 	animation: colors 15s ease infinite;
-	animation-duration: 10s;
 	animation-timing-function: linear;
 }
 
@@ -93,7 +90,7 @@ button:hover {
 	
 
 @-webkit-keyframes colors {
-	0% {background-position: 0% 50%;}
-	50% {background-position: 100% 50%;}
-	100% {background-position: 0% 50%;}
+	0% {background-position: 0% 75%;}
+	50% {background-position: 150% 50%;}
+	100% {background-position: 0% 75%;}
 }
