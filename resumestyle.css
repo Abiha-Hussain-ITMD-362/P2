@@ -42,6 +42,11 @@ h1, h2, h3 {
 
 #main {
 	padding: 10% 20%;
+	-webkit-animation-name: colors;
+	-webkit-animation-duration: 5s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
 	animation-name: colors;
 	animation-duration: 5s;
 	animation-timing-function: linear;
