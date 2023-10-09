@@ -11,7 +11,7 @@ nav ul {
 
 nav ul li {
 	float: left;
-	width: 33.3%;
+	width: 33.333%;
 }
 
 nav ul li a {
@@ -26,6 +26,7 @@ nav ul li a {
 li a:hover {
 	background-image: linear-gradient(15deg, #1A94FF, #25FFFC);
 	color: black;
+	border: 5px solid black;
 }
 
 body {
