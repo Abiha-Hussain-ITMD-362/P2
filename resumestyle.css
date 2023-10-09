@@ -77,7 +77,7 @@ button:hover {
 }
 
 #img {
-	width: 100%;
+	width: 70%;
 	height: auto;
 	filter: contrast(110%);
 	filter: grayscale(30%);
