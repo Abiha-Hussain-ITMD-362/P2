@@ -76,8 +76,8 @@ button:hover {
 	border: 5px solid black;
 }
 
-img {
-	width: 60%;
+#img {
+	width: 150%;
 	height: auto;
 	filter: contrast(110%);
 	filter: grayscale(30%);
