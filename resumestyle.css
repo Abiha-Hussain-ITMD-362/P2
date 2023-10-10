@@ -94,23 +94,18 @@ iframe {
 }
 
 #leftcolumn {
-	height: 45%;
-        width: 45%;
 	float: left;
-        object-fit: contain;
-	position: static;
-	margin-bottom: 2%;
-	magin-top: 2%;
-	clear: left;
 }
 
 #rightcolumn {
+	float: right;
+}
+
+#columnimg {
 	height: 45%;
         width: 45%;
-	float: right;
-        object-fit: contain;
+	object-fit: contain;
 	position: static;
 	margin-bottom: 2%;
 	magin-top: 2%;
-	clear: right;
 }
