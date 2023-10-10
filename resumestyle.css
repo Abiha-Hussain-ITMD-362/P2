@@ -95,10 +95,12 @@ iframe {
 
 #leftcolumn {
 	float: left;
+	clear: left;
 }
 
 #rightcolumn {
 	float: right;
+	clear: right;
 }
 
 #columnimg {
