@@ -101,6 +101,7 @@ iframe {
 #rightcolumn {
 	float: right;
 	clear: right;
+	margin-top: 0;
 }
 
 #columnimg {
