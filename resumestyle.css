@@ -99,7 +99,7 @@ iframe {
 	position: static;
 	margin-bottom: 2%;
 	magin-top: 2%;
-	overflow: auto;
+	overflow: scroll;
 }
 
 #rightcolumn {
@@ -110,5 +110,5 @@ iframe {
 	position: static;
 	margin-bottom: 2%;
 	magin-top: 2%;
-	overflow: auto;
+	overflow: scroll;
 }
