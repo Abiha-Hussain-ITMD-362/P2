@@ -88,4 +88,5 @@ iframe {
         width: 100%;
         object-fit: contain;
 	position: static;
+	border: 0;
 }
