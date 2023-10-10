@@ -92,8 +92,8 @@ iframe {
 }
 
 #leftcolumn {
-	height: 100%;
-        width: 45%;
+	height: 15%;
+        width: 15%;
 	float: left;
         object-fit: contain;
 	position: static;
@@ -102,8 +102,8 @@ iframe {
 }
 
 #rightcolumn {
-	height: 100%;
-        width: 45%;
+	height: 15%;
+        width: 15%;
 	float: right;
         object-fit: contain;
 	position: static;
