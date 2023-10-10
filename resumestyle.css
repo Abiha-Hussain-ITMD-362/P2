@@ -100,6 +100,7 @@ iframe {
 	position: static;
 	margin-bottom: 2%;
 	magin-top: 2%;
+	clear: left;
 }
 
 #rightcolumn {
@@ -110,4 +111,5 @@ iframe {
 	position: static;
 	margin-bottom: 2%;
 	magin-top: 2%;
+	clear: right;
 }
