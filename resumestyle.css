@@ -24,6 +24,18 @@ nav ul li a {
 	font-family: 'Young Serif', serif;
 }
 
+#header {
+	background-color: black;
+	color: white;
+	padding: 20px 10px;
+	font-size: 40px;
+	font-family: 'Young Serif', serif;
+	width: 100%;
+	height: 80px;
+	text-align: center;
+	position: fixed;
+}
+
 li a:hover {
 	background-color: white;
 	color: black;
@@ -111,15 +123,4 @@ iframe {
 	object-fit: contain;
 	position: static;
 	margin-bottom: 2%;
-}
-#header {
-	background-color: black;
-	color: white;
-	padding: 20px 10px;
-	font-size: 40px;
-	font-family: 'Young Serif', serif;
-	width: 100%;
-	height: 50px;
-	text-align: center;
-	position: fixed;
 }
