@@ -107,13 +107,11 @@ iframe {
 
 #leftcolumn {
 	float: left;
-	clear: left;
 	margin-top: 0;
 }
 
 #rightcolumn {
 	float: right;
-	clear: right;
 	margin-top: 0;
 }
 
