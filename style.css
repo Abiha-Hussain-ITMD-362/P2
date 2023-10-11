@@ -98,4 +98,5 @@ iframe {
         width: 40%;
 	object-fit: contain;
 	clear: both;
+	border-radius: 50%;
 }
