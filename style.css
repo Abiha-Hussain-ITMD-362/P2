@@ -93,9 +93,8 @@ iframe {
 	border: 0;
 }
 
-#columnimg {
+#aboutmeimg {
 	height: 40%;
         width: 40%;
 	object-fit: contain;
-	position: static;
 }
