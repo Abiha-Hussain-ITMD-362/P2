@@ -32,12 +32,15 @@ li a:hover {
 
 body {
 	font-family: arial;
-	font-size: 15px;
+	font-size: 20px;
 	color: #0540F2;
+  	line-height: 200%;
+	clear: both;
 }
 
 p a {
 	text-decoration: none;
+	color: #0540F2;
 }
 
 h1, h2, h3 {
@@ -64,7 +67,6 @@ hr {
 }
 
 #button {
-	border: 3px solid #0540F2;
 	background-color: #0540F2;
 	font-family:  'Young Serif', serif;
 	font-size: 20px;
@@ -84,8 +86,8 @@ hr {
 
 #button a:hover {
 	background-color: white;
-	color: black;
-	border: 5px solid black;
+	color: #0540F2;
+	border: 5px solid #0540F2;
 }
 
 .img {
