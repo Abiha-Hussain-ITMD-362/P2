@@ -32,7 +32,7 @@ li a:hover {
 
 body {
 	font-family: verdana;
-	font-size: 18px;
+	font-size: 16px;
 	color: #0540F2;
   	line-height: 150%;
 	clear: both;
@@ -74,7 +74,7 @@ hr {
 	margin-left: 33.3%;
 	margin-right:33.3%;
 	margin-top: 5%;
-	border:
+	border: 2px solid #0540F2;
 }
 
 #button a {
@@ -87,7 +87,7 @@ hr {
 #button a:hover {
 	background-color: white;
 	color: #0540F2;
-	border: 1px solid #0540F2;
+	border: 2px solid #0540F2;
 }
 
 .img {
