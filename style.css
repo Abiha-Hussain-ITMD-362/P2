@@ -31,10 +31,10 @@ li a:hover {
 }
 
 body {
-	font-family: arial;
-	font-size: 20px;
+	font-family: verdana;
+	font-size: 18px;
 	color: #0540F2;
-  	line-height: 200%;
+  	line-height: 150%;
 	clear: both;
 }
 
@@ -70,11 +70,11 @@ hr {
 	background-color: #0540F2;
 	font-family:  'Young Serif', serif;
 	font-size: 20px;
-	width: 30%;
-	padding: 2%;
+	width: 31%;
 	margin-left: 33.3%;
 	margin-right:33.3%;
 	margin-top: 5%;
+	border:
 }
 
 #button a {
@@ -87,7 +87,7 @@ hr {
 #button a:hover {
 	background-color: white;
 	color: #0540F2;
-	border: 5px solid #0540F2;
+	border: 1px solid #0540F2;
 }
 
 .img {
@@ -95,7 +95,7 @@ hr {
         width: 100%;
         object-fit: contain;
 	position: static;
-	filter: saturation(100%);
+	filter: grayscale(100%);
 }
 
 iframe {
