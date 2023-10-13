@@ -82,7 +82,7 @@ hr {
 	border: 5px solid black;
 }
 
-#img {
+.img {
 	height: 100%;
         width: 100%;
         object-fit: contain;
@@ -108,7 +108,7 @@ iframe {
 	clear: both;
 }
 
-#text {
+.text {
 	float: right;
 	width: 52%;
 	margin: 0;
