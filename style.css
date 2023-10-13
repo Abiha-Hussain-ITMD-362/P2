@@ -35,7 +35,6 @@ body {
 	font-size: 16px;
 	color: #0540F2;
   	line-height: 150%;
-	position: relative;
 	clear: both;
 }
 
@@ -95,7 +94,7 @@ hr {
 	height: 100%;
         width: 100%;
         object-fit: contain;
-	position: static;
+	position: relative;
 	filter: grayscale(100%);
 }
 
