@@ -101,11 +101,11 @@ iframe {
 	height: auto;
         width: 45%;
 	object-fit: contain;
-	clear: left;
 	float: left;
 	border-radius: 50%;
 	margin-top: 5%;
 	margin-bottom: 5%;
+	clear: both;
 }
 
 #text {
@@ -113,7 +113,7 @@ iframe {
 	width: 52%;
 	margin: 0;
 	display: inline-block;
-	clear: right;
+	clear: both;
 }
 
 #wrap{
