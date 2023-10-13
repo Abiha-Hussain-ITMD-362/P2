@@ -20,7 +20,8 @@ nav ul li a {
 	display: block;
         text-align: center;
         padding: 20px 40px;
-	color: #F2527D;
+	color: white;
+	font-size: 20px;
 	font-family: 'Young Serif', serif;
 }
 
@@ -34,7 +35,6 @@ body {
 	font-size: 15px;
 	color: #0540F2;
 	font-weight: 500;
-	clear: both;
 }
 
 h1, h2, h3 {
@@ -57,7 +57,7 @@ h1, h2, h3 {
 }
 
 hr {
-	border: 5px solid black;
+	border: 5px solid #0540F2;
 }
 
 #button {
@@ -89,6 +89,7 @@ hr {
         width: 100%;
         object-fit: contain;
 	position: static;
+	filter: saturation(100%);
 }
 
 iframe {
