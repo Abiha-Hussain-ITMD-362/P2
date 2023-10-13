@@ -70,11 +70,11 @@ hr {
 	background-color: #0540F2;
 	font-family:  'Young Serif', serif;
 	font-size: 20px;
-	width: 31%;
+	width: 32%;
 	margin-left: 33.3%;
 	margin-right:33.3%;
 	margin-top: 5%;
-	border: 2px solid #0540F2;
+	border: 2px 2px solid #0540F2;
 }
 
 #button a {
@@ -87,7 +87,7 @@ hr {
 #button a:hover {
 	background-color: white;
 	color: #0540F2;
-	border: 2px solid #0540F2;
+	border: 2px 2px solid #0540F2;
 }
 
 .img {
