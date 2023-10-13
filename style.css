@@ -4,7 +4,7 @@ nav ul {
         padding: 0;
         float: left;
 	overflow: hidden;
-        background-color: black;
+        background-color: #0540F2;
 	width: 100%;
 	height: auto;
 	position: fixed;
@@ -20,18 +20,19 @@ nav ul li a {
 	display: block;
         text-align: center;
         padding: 20px 40px;
-	color: white;
+	color: #F2527D;
 	font-family: 'Young Serif', serif;
 }
 
 li a:hover {
 	background-color: white;
-	color: black;
+	color: #0540F2;
 }
 
 body {
 	font-family: courier;
 	font-size: 15px;
+	color: #0540F2;
 	font-weight: 500;
 	clear: both;
 }
@@ -48,10 +49,11 @@ h1, h2, h3 {
 
 #footer {
 	clear: left;
-	background-color: black;
+	background-color: #0540F2;
 	font-size: 20px;
 	padding: 5%;
 	color: white;	
+	font-family: 'Young Serif', serif;
 }
 
 hr {
