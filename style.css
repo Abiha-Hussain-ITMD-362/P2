@@ -120,6 +120,11 @@ iframe {
   margin: 0;
 }
 
+.spacing {
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+
 #wrap{
   clear: both;
 }
