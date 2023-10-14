@@ -67,7 +67,7 @@ hr {
 }
 
 #button {
-  background: linear-gradient(110deg, #F27B35, #F272D0, #F25C78);
+  background: black;
   font-family:  'Young Serif', serif;
   font-size: 20px;
   width: 30%;
@@ -87,6 +87,7 @@ hr {
 #button a:hover {
   background-color: white;
   color: black;
+  border: 0;
 }
 
 .img {
