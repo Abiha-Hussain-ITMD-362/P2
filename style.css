@@ -1,11 +1,11 @@
 nav ul {
-	list-style-type: none;
-	margin: 0;
+  list-style-type: none;
+  margin: 0;
   padding: 0;
   float: left;
-	overflow: hidden;
+  overflow: hidden;
   background: linear-gradient(110deg, #F27B35, #F272D0, #F25C78);
-	width: 100%;
+  width: 100%;
 	height: auto;
 	position: fixed;
 }
