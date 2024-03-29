@@ -16,18 +16,18 @@
 }
 
 nav {
-  position: sitcky;
+  position: sticky;
 }
 
 #fit {
   object-fit: cover;
-  width: 40%;
-  height: 100%;
 }
 
 #right-image {
   max-height: 900px;
   float: right;
+  width: 40%;
+  height: 100%;
 }
 
 #container {
@@ -83,7 +83,7 @@ body {
   font-size: 16px;
   color: white;
   background-color: black;
-  max-height: 900px;
+  max-height: 1257px;
 }
 
 #footer {
