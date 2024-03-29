@@ -13,7 +13,6 @@ nav {
 #right-image {
   width: 40%;
   height: 100%;
-  object-fit: contain;
   float: right;
   background-color: grey;
 }
