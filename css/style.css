@@ -13,6 +13,8 @@ nav {
 #right-image {
   width: 40%;
   height: 100%;
+  max-height: 900px;
+  min-height: 500px;
   float: right;
   background-color: grey;
   object-fit: contain;
