@@ -10,6 +10,12 @@ nav {
   position: sitcky;
 }
 
+#right-image {
+  width: 40%;
+  height: auto;
+  float: right;
+}
+
 #container {
   margin-top: 5%;
   margin-right: 5%;
