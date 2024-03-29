@@ -19,16 +19,12 @@ nav {
   position: sticky;
 }
 
-#fit {
-  height: 100%;
-  width: 100%;
-}
-
 #right-image {
   object-fit: cover;
   max-height: 1257px;
   float: right;
   width: auto;
+  background-color: white;
 }
 
 #container {
