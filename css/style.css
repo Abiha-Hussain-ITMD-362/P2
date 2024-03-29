@@ -20,10 +20,10 @@ nav {
 
 #right-image {
   object-fit: cover;
-  background-image: url('media/warren.jpg');
   float: right;
   width: 50%;
   height: 600px;
+  background-color: white;
 }
 
 #container {
