@@ -21,14 +21,13 @@ nav {
 
 #fit {
   object-fit: cover;
+  width: 40%;
+  height: 100%;
 }
 
 #right-image {
-  width: 40%;
-  height: auto;
   max-height: 900px;
   float: right;
-  background-color: grey;
 }
 
 #container {
