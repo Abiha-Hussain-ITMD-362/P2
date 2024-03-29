@@ -4,11 +4,19 @@
   text-align: center;
   display: block;
   background-color: #F0F0F0;
-  position: fixed;
 }
 
 nav {
   position: sitcky;
+}
+
+#container {
+  margin-top: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+  width: 50%;
+  float: left;
 }
 
 nav ul {
@@ -62,8 +70,6 @@ body {
   width: 100%;
   clear: left;
   font-size: 12px;
-  margin-top: 30px;
-  margin-bottom: 30px;
   font-family: "Almarai", sans-serif;
 }
 
@@ -78,5 +84,6 @@ body {
 
 .img-footer {
   width: 120px;
-  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
