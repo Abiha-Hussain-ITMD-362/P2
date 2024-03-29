@@ -40,6 +40,7 @@ nav {
   margin-bottom: 5%;
   width: 50%;
   float: left;
+  max-height: 1257px;
 }
 
 nav ul {
@@ -86,7 +87,6 @@ body {
   font-size: 16px;
   color: white;
   background-color: #3d3a36;
-  max-height: 1257px;
 }
 
 #footer {
