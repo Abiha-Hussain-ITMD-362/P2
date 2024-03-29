@@ -20,17 +20,15 @@ nav {
 }
 
 #fit {
-  width: 100%;
   height: 100%;
-  object-fit: cover;
+  width: 100%;
 }
 
 #right-image {
-  object-fit: contain;
+  object-fit: cover;
   max-height: 1257px;
   float: right;
-  width: 40%;
-  height: auto;
+  width: auto;
 }
 
 #container {
