@@ -16,7 +16,6 @@ nav {
   max-height: 900px;
   float: right;
   background-color: grey;
-  object-fit: cover;
 }
 
 #container {
