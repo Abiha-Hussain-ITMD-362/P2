@@ -17,7 +17,7 @@ nav {
   min-height: 500px;
   float: right;
   background-color: grey;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 #container {
