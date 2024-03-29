@@ -12,7 +12,7 @@ nav {
 
 #right-image {
   width: 40%;
-  height: auto;
+  height: 100%;
   float: right;
   background-color: grey;
   object-fit: contain;
