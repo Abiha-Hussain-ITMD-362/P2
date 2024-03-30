@@ -1,3 +1,7 @@
+body {
+    background-color: #3d3a36;
+}
+
 #overlay {
   background-image: url('media/berkshire.jpg');
   width: 100%;
@@ -23,15 +27,14 @@ nav {
   height: auto;
   min-height: 600px;
   max-height: 900px;
+  text-align: center;
 }
 
 #right-image-inside {
-    width: 100%;
-    height: fit-content;
+    width: 70%;
 }
 
 #container {
-  background-color: #3d3a36;
   height: auto;
   width: 40%;
   float: left;
