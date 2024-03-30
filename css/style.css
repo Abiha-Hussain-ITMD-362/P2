@@ -29,7 +29,8 @@ nav {
 }
 
 #right-image-inside {
-    width: auto;
+    min-width: 700px;
+    max-width: 900px;
     min-height: 700px;
     max-height: 900px;
 }
