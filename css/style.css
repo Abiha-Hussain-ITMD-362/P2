@@ -34,15 +34,15 @@ nav {
     width: 70%;
 }
 
+#left-container {
+    text-align: center;
+}
+
 #container {
   height: auto;
   width: 40%;
   float: left;
-}
-
-#container p, h1 {
-  margin-left: 5%;
-  margin-right: 5%;
+  padding: 5%;
 }
 
 nav ul {
