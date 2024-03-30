@@ -22,15 +22,22 @@ nav {
   object-fit: cover;
   float: right;
   width: 50%;
-  height: 600px;
+  height: auto;
   background-color: white;
 }
 
 #container {
   background-color: #3d3a36;
-  height: 600px;
+  height: auto;
   width: 50%;
   float: left;
+}
+
+#container p, h1 {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 nav ul {
