@@ -25,13 +25,13 @@ nav {
   float: right;
   width: 50%;
   height: auto;
-  min-height: 600px;
-  max-height: 900px;
   text-align: center;
 }
 
 #right-image-inside {
     width: 70%;
+    min-height: 700px;
+    max-height: 900px;
 }
 
 #left-container {
@@ -42,7 +42,9 @@ nav {
   height: auto;
   width: 40%;
   float: left;
-  padding: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
 }
 
 nav ul {
