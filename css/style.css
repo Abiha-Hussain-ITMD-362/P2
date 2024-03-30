@@ -44,7 +44,7 @@ nav {
   float: left;
 }
 
-#container p, h1 {
+#left-container {
   margin-left: 5%;
   margin-right: 5%;
   margin-top: 5%;
