@@ -22,17 +22,18 @@ nav {
   float: right;
   width: 50%;
   height: auto;
-  margin:0 auto;
-  position:relative;
+  margin: 0 auto;
+  position: relative;
+  object-fit: cover;
 }
 
 #right-image-inside {
     position:absolute;
     top:0;
     left:0;
-    width: auto;
+    width: 300px;
     height: auto;
-    background-size: cover;
+    object-fit: cover;
 }
 
 #container {
