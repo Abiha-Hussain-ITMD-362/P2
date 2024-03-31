@@ -1,5 +1,5 @@
 body {
-    background-color: #3d3a36;
+    background-color: white;
 }
 
 #overlay {
@@ -12,19 +12,12 @@ body {
   display: block;
 }
 
-#overlay p {
-    position: relative;
-    font-size: 20px;
-    text-align: right;
-    width: 55%;
-    float: right;
-}
 
 #overlay h1 {
     position: relative;
     font-size: 75px;
     color: white;
-    text-transform: uppercase;
+    text-transform: capitalize;
     weight: 900;
     text-align: right;
     width: 55%;
@@ -52,9 +45,7 @@ nav {
 }
 
 #right-image-inside {
-    position: absolute;
-    height: 698px;
-    width: 500px;
+    width: 100%;
 }
 
 #bottom-container {
