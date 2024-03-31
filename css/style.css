@@ -13,7 +13,7 @@ body {
 }
 
 #overlay p {
-    position: absolute;
+    position: relative;
     font-size: 20px;
     text-align: right;
     width: 55%;
@@ -25,10 +25,12 @@ body {
     font-size: 75px;
     color: black;
     text-transform: uppercase;
-    weight: 900;
+    weight: bold;
     text-align: right;
     width: 55%;
     float: right;
+    top: 70%;
+    padding: 5%
 } 
 
 #header {
@@ -51,6 +53,7 @@ nav {
 }
 
 #right-image-inside {
+    position: absolute;
     height: 698px;
     width: 500px;
 }
