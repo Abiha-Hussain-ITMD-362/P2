@@ -3,11 +3,11 @@ body {
 }
 
 #overlay {
-  background-image: linear-gradient(to bottom, rgba(110, 93, 83, 0.12), rgba(110, 93, 83, 0.83)),
+  background-image: linear-gradient(to bottom, rgba(110, 93, 83, 0), rgba(110, 93, 83, 0.83)),
   url("https://www.thetruefinance.com/content/images/2023/10/warren-buffett-reading-stock-reports-to-analyze-stocks.png");
   background-repeat: no-repeat;
   width: 100%;
-  background-fit: size;
+  background-size: cover;
   height: 700px;
   display: block;
 }
