@@ -21,7 +21,7 @@ body {
 }
 
 #overlay h1 {
-    position: absolute;
+    position: relative;
     font-size: 75px;
     color: black;
     text-transform: uppercase;
