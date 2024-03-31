@@ -23,7 +23,7 @@ nav {
 
 #right-image {
   float: right;
-  width: 50%;
+  width: 40%;
   height: auto;
   text-align: center;
 }
@@ -39,7 +39,7 @@ nav {
 
 #container {
   height: auto;
-  width: 40%;
+  width: 60%;
   float: left;
   padding-left: 5%;
   padding-right: 5%;
