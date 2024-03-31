@@ -12,6 +12,25 @@ body {
   display: block;
 }
 
+#overlay p {
+    position: absolute;
+    font-size: 20px;
+    text-align: right;
+    width: 55%;
+    padding: 5%;
+}
+
+#overlay h1 {
+    position: absolute;
+    font-size: 35px;
+    color: black;
+    text-transform: uppercase;
+    weight: 800;
+    text-align: right;
+    width: 55%;
+    padding: 5%;
+} 
+
 #header {
   width: 100%;
   height: auto;
