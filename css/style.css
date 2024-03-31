@@ -7,7 +7,8 @@ body {
   url("https://www.thetruefinance.com/content/images/2023/10/warren-buffett-reading-stock-reports-to-analyze-stocks.png");
   background-repeat: no-repeat;
   width: 100%;
-  height: auto;
+  background-fit: size;
+  height: 700px;
   display: block;
 }
 
