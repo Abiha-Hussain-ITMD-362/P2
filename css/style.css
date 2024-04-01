@@ -18,12 +18,19 @@ body {
     font-size: 75px;
     color: white;
     text-transform: capitalize;
-    weight: 900;
+    font-family: "Lexend Deca", sans-serif;
+    weight: 700;
     text-align: right;
     width: 55%;
     float: right;
     padding: 5%
 } 
+
+#overlay hr {
+    border: 10px solid white;
+    float: right;
+    padding: 5%;
+}
 
 #header {
   width: 100%;
@@ -37,17 +44,6 @@ nav {
   position: sticky;
 }
 
-#right-image {
-  float: right;
-  width: 40%;
-  height: auto;
-  text-align: center;
-}
-
-#right-image-inside {
-    width: 100%;
-}
-
 #bottom-container {
     margin-top: 5%;
     margin-bottom: 5%;  
@@ -57,10 +53,10 @@ nav {
 
 #container {
   height: auto;
-  width: 50%;
-  float: left;
-  padding-right: 5%;
-  padding-bottom: 5%;
+  width: 90%;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 700px:
+  color: black;
 }
 
 nav ul {
