@@ -1,4 +1,5 @@
 #overlay {
+  top: 0;
   background-color: #F2A71B;
   width: 100%;
   background-size: cover;
@@ -20,16 +21,11 @@
 } 
 
 #overlay img {
-  width: 100%;
+  width: 90%;
   height: auto;
   margin: 5%;
 }
 
-#overlay hr {
-    border: 10px solid white;
-    float: right;
-    margin-right: 5%;
-}
 
 #header {
   width: 100%;
