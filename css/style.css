@@ -49,12 +49,21 @@ nav {
 
 #container {
   height: auto;
-  width: 90%;
+  width: 100%;
   font-family: "Lexend Deca", sans-serif;
   font-size: 700px:
   color: black;
 }
 
+#container p {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+#container h1 {
+  font-weight: 700;
+  font-size: 50px;
+}
 nav ul {
   list-style-type: none;
   margin: 0;
@@ -96,9 +105,7 @@ li a:hover {
 
 body {
   font-family: "Lexend Deca", sans-serif;
-  font-weight: 500;
-  line-height: 1.5;
-  font-size: 20px;
+  line-height: 1.3;
   color: black;
   background-color: white;
 }
