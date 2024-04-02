@@ -1,3 +1,4 @@
+function myFunction() {
 $(document).ready(function(){
   $('.testimonials').bxSlider({
     auto: true,
@@ -8,3 +9,5 @@ $(document).ready(function(){
     slideMargin: 0
   });
 });
+}
+window.myFunction = myFunction;
