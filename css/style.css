@@ -10,13 +10,12 @@
 
 #overlay h1 {
     position: relative;
-    font-size: 75px;
+    font-size: 65px;
     color: black;
     text-transform: capitalize;
     font-family: "Almarai", san-serif;
     weight: 900;
     text-align: left;
-    width: 75%;
     margin: 5%
 } 
 
