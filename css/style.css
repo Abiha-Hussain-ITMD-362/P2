@@ -1,5 +1,5 @@
 #overlay {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 1)),
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 1)),
   url("https://www.thetruefinance.com/content/images/2023/10/warren-buffett-reading-stock-reports-to-analyze-stocks.png");
   background-size: cover;
   background-repeat: no-repeat;
@@ -166,9 +166,8 @@ body {
   color:#fff;
 }
 
-.testimonials /* wrap */ {
+.testimonials {
   text-align: center;
-  background-color: black;
 }
 .testimonial blockquote { 
   font-size:1.4em;
