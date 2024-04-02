@@ -141,3 +141,32 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.bx-has-pager {
+  text-align:center;
+  margin-top:2em;
+}
+.bx-pager-item {
+  display:inline-block;
+  margin:0 .5em;
+  color:#000;
+}
+.bx-pager-link {
+  width:44px;
+  height:44px;
+  line-height:44px;
+  display: block;
+}
+.bx-pager-link.active {
+  background:#000;
+  border-radius:22px;
+  color:#fff;
+}
+
+.testimonials /* wrap */ {
+  text-align: center;
+  background-color: black;
+}
+.testimonial blockquote { 
+  font-size:1.4em;
+}
