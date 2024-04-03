@@ -146,17 +146,19 @@ body {
   margin-bottom: 20px;
 }
 
+.quotes {
+   background-color: white;
+   font-family: "Almarai", sans-serif;
+}
+
 .item-1, 
 .item-2, 
 .item-3 {
 	position: absolute;
-  display: block;
-	top: 2em;
-  
-  width: 60%;
-  
-  font-size: 2em;
-
+        display: block;
+	top: 25px;
+        width: 60%;
+        font-size: 25px;
 	animation-duration: 20s;
 	animation-timing-function: ease-in-out;
 	animation-iteration-count: infinite;
